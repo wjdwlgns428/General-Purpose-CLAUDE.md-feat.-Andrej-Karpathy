@@ -1,6 +1,6 @@
 # General-purpose CLAUDE.md
 
-A general-purpose adaptation of the viral CLAUDE.md inspired by Andrej Karpathy’s Claude Code workflow. It keeps the spirit of careful, goal-aware AI collaboration while making the assistant less tied to coding-specific rules and more capable of appropriate autonomy.
+A general-purpose adaptation of the viral CLAUDE.md inspired by Andrej Karpathy’s comments on LLM's pitfall. It keeps the spirit of careful, goal-aware AI collaboration while making the assistant less tied to coding-specific rules and more capable of appropriate autonomy.
 
 ## About
 
